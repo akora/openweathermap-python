@@ -37,3 +37,4 @@ if __name__ == '__main__':
   main()
 
 # TODO: fix TypeError: string indices must be integers, not str if base_url is incorrect
+# TODO: review error handling and refactor to detach API call and processing the results
